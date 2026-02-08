@@ -13,8 +13,8 @@ pip install pypdf tqdm
 ```
 
 ## Usage
-Scan Fronts: Scan all front pages (1, 3, 5, ...) into the first PDF.
-Scan Backs: Flip the stack and scan all back pages (6, 4, 2, ...) into a second PDF.
+- Scan Fronts: Scan all front pages (1, 3, 5, ...) into the first PDF.
+- Scan Backs: Flip the stack and scan all back pages (6, 4, 2, ...) into a second PDF.
 
 Run the script:
 ```bash
